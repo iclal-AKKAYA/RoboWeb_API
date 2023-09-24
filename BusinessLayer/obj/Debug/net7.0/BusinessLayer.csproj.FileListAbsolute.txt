@@ -1,0 +1,5 @@
+C:\Users\ici\source\repos\RoboFactoryWebUI\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\BusinessLayer\obj\Debug\net7.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ici\source\repos\RoboFactoryWebUI\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\ici\source\repos\RoboFactoryWebUI\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CoreCompileInputs.cache

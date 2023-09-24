@@ -1,0 +1,14 @@
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ici\source\repos\RoboFactoryWebUI\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

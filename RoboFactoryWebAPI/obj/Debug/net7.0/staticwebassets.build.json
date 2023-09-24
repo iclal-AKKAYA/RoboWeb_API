@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fzSae2mjsHUFO059oPucDUGcZuUiLlK1RFS7jDxgO8A=",
+  "Source": "RoboFactoryWebAPI",
+  "BasePath": "_content/RoboFactoryWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
